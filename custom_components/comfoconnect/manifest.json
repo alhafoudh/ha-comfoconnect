@@ -1,0 +1,11 @@
+{
+  "domain": "comfoconnect",
+  "name": "Zehnder ComfoAir Q (throttled)",
+  "codeowners": ["@alhafoudh"],
+  "documentation": "https://github.com/alhafoudh/ha-comfoconnect",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/alhafoudh/ha-comfoconnect/issues",
+  "loggers": ["pycomfoconnect"],
+  "requirements": ["pycomfoconnect==0.5.1"],
+  "version": "2026.11.1"
+}
